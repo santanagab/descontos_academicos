@@ -14,7 +14,7 @@ Para facilitar o acesso a essas ferramentas com descontos e auxiliar no desenvol
 
 
 
-A JetBrains possui Licenças individuais para alunos de instituições educacionais credenciadas (ensino médio, faculdades e universidades). O aluno obterá acesso gratuito a todos os IDEs JetBrains, como o IntelliJ IDEA Ultimate, WebStorm,  Data Grip e PyCharm Professional para uso nas dependências da UNIESP ou em casa.
+A JetBrains possui licenças individuais para alunos de instituições educacionais credenciadas (ensino médio, faculdades e universidades). O aluno obterá acesso gratuito a todos os IDEs JetBrains, como o IntelliJ IDEA Ultimate, WebStorm,  Data Grip e PyCharm Professional para uso nas dependências da UNIESP ou em casa.
 
  
 
